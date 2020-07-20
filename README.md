@@ -1,1 +1,1 @@
-# animate-mouse
+# Mouse Click Animation
